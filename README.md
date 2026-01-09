@@ -16,6 +16,12 @@ The objective of this project is to use **AI-driven image classification** to:
 - Improve consistency and accuracy  
 - Assist medical professionals with reliable decision support
 
+## 📄 Project Documentation
+
+Detailed project documentation including system design, model architecture, implementation details, and testing is available here:
+
+🔗 [View Full Project Documentation](https://docs.google.com/document/d/1Zl-DUdiklPGMqhON5IUTFQHWCd6JWyjsXowg5vNB7rc/edit?usp=sharing)
+
 ## 🛠️ Tech Stack
 
 ### Programming & Machine Learning
@@ -62,6 +68,10 @@ The model achieved **high classification accuracy (>90%)** on validation data.
 3. CNN-based prediction  
 4. Result displayed as **Benign** or **Malignant**  
 5. Recommendation to consult medical professionals if required
+
+## 📸 Screenshots
+![Screenshot 2026-01-09 at 12 41 43](https://github.com/user-attachments/assets/21f28b9e-4091-4eaf-8e65-aa8eb8839fc5)
+
 ## 🧩 Project Structure
 
 ```

@@ -42,8 +42,6 @@ The objective of this project is to use **AI-driven image classification** to:
 
 > The dataset is not included in this repository due to size and licensing constraints.
 
----
-
 ## 🧠 Model & Approach
 
 - **Convolutional Neural Networks (CNNs)** used for feature extraction and classification
@@ -57,8 +55,6 @@ The objective of this project is to use **AI-driven image classification** to:
 
 The model achieved **high classification accuracy (>90%)** on validation data.
 
----
-
 ## 🔄 System Workflow
 
 1. User uploads a histopathology image  
@@ -66,8 +62,9 @@ The model achieved **high classification accuracy (>90%)** on validation data.
 3. CNN-based prediction  
 4. Result displayed as **Benign** or **Malignant**  
 5. Recommendation to consult medical professionals if required
-
 ## 🧩 Project Structure
+
+```
 breast-cancer-histopathology-classifier/
 │
 ├── app.py                  # Flask application & model integration
@@ -78,6 +75,7 @@ breast-cancer-histopathology-classifier/
 ├── Breast_Cancer_Prediction.ipynb
 ├── requirements.txt
 ├── README.md
+```
 
 ## ▶️ How to Run Locally
 

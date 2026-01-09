@@ -81,7 +81,7 @@ breast-cancer-histopathology-classifier/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com//breast-cancer-histopathology-classifier.git
+git clone https://github.com/shubhammola/breast-cancer-histopathology-classifier.git
 cd breast-cancer-histopathology-classifier
 ```
 
